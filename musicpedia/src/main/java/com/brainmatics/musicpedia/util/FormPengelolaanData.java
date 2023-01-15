@@ -1,4 +1,4 @@
-package main.java.com.brainmatics.musicpedia.util;
+package com.brainmatics.musicpedia.util;
 
 public class FormPengelolaanData {
   

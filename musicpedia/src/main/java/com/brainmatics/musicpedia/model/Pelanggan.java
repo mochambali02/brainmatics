@@ -1,4 +1,4 @@
-package main.java.com.brainmatics.musicpedia.model;
+package com.brainmatics.musicpedia.model;
 
 public class Pelanggan {
   

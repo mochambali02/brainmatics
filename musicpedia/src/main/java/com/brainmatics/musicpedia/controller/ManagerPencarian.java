@@ -1,4 +1,4 @@
-package main.java.com.brainmatics.musicpedia.controller;
+package com.brainmatics.musicpedia.controller;
 
 public class ManagerPencarian {
   
